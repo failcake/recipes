@@ -27,7 +27,7 @@ The Recipes
 -----------
 
 In the talk, I named the chocolate orange cake, baked by one of our cycling
-devs, @josno, and here is the recipe for it:
+devs, Joe Ray [@josno](https://github.com/josno), and here is the recipe for it:
 
 [Vegan Chocolate Orange
 Cake](http://tastedeindia.com/chocolate-orange-cake-vegan/)
