@@ -6,7 +6,7 @@ What the hell?
 
 So, my talk at [DevOpsDays London](http://devopsdays.org/events/2013-london/),
 *[Devops in the Hell of a Thousand Different
-Platform](http://devopsdays.org/events/2013-london/proposals/DifferentPlatforms/)*
+Platforms](http://devopsdays.org/events/2013-london/proposals/DifferentPlatforms/)*
 ([video](http://vimeo.com/62330508))
 ([slides](https://speakerdeck.com/sameaton/devops-in-the-hell-of-a-thousand-different-platforms))
 contained an explanation of "failcake", our method for encouraging honesty and
@@ -23,11 +23,11 @@ In the spirit of open source, I figured I'd actually try and do something about
 this, and so this repo will contain links and recipes for failcakes. Please
 fork it (oh the terrible puns) and add your favourites.
 
-The Recipes
+The recipes
 -----------
 
 In the talk, I named the chocolate orange cake, baked by one of our cycling
-devs, Joe Ray [@josno](https://github.com/josno), and here is the recipe for it:
+devs, [Joe Ray](https://github.com/josno), and here is the recipe for it:
 
 [Vegan Chocolate Orange
 Cake](http://tastedeindia.com/chocolate-orange-cake-vegan/)
